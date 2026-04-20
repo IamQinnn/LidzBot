@@ -1461,7 +1461,7 @@ const naze = async (naze, m, msg, store) => {
 			}
 			break
 			case 'donasi': case 'donate': {
-				m.reply('Donasi Dapat Melalui Url Dibawah Ini :\nhttps://saweria.co/naze')
+				m.reply('Donasi Dapat Melalui Url Dibawah Ini :\nhttps://saweria.co/liddzybot')
 			}
 			break
 			
